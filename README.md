@@ -1,6 +1,4 @@
 # Hybrid_MCPServer_Rust
-
-# Hybrid MCPServer
 We build a stateful Hybrid MCP Server( with both HTTP JSON-RPC and GraphQL endpoints) with in Depth Security and Post‑Quantum Resilience, using open-source tools utilising the Meson build System.
 
 ## Requirements for a  Hybrid MCP Server with In-Depth Security and Post-Quantum Resilience
